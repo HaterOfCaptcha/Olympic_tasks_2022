@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="numpy" />
+          <option value="tensorflow" />
+          <option value="cycle.cycle.spiders.Algorithm.constant_va" />
+          <option value="cycle.cycle.spiders.Algorithm.white_move" />
+          <option value="cycle.cycle.spiders.Algorithm.white_checkers_values" />
+          <option value="cycle.cycle.spiders.Algorithm.pg" />
+          <option value="cycle.cycle.spiders.Algorithm.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
